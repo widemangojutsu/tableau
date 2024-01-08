@@ -1,17 +1,18 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+Explore relationships with CPI and housing price
 
 ## Process
-### (your step 1)
-### (your step 2)
+Look at data with excell, look at over view
+used tableau for visualization and exploratory
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+I used the first with CPI and housing. I found that cpi and housing have no direct relation, low pvalue, however looking further
+in the financial crashes found in the data, there are some more points to explore such as money supply increase from money stimulus as reaction of crisis response
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Getting the right types of data for tableau to work
 
 ## Future Goals
-(what would you do if you had more time?)
+explore the stimulus area
